@@ -9,6 +9,7 @@ using namespace std;
 
 typedef unsigned long long BIG;
 
+
 /* define the max volume of the arry */
 const int MAX_ARRAY = 1000;
 
