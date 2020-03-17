@@ -1,10 +1,9 @@
-// #include <iostream>
+#include <iostream>
 #include "primejudge.h"
 #include <cmath>
 #include <fstream>
 #include <cstdio>
 #include "bonus.h"
-#include <iostream>
 
 using namespace std;
 
